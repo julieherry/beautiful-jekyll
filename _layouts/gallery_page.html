@@ -1,0 +1,32 @@
+---
+layout: page
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<hr>
+
+    {% for image in page.images %}
+        <div class="gallery-image-wrapper">
+            <a name="{{ image.name }}"></a>
+            <a href="{{ image.src }}" data-rel="lightcase:myCollection:slideshow" >
+                <img class="gallery-image" src="thumbs/{{ image.name }}" alt="{{ image.title }} / {{ image.dimension }} "/>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+<!-- <div id="lightcase-nav"><a href="#" class="lightcase-icon-prev" style="display: none;"><span>Prev</span></a><a href="#" class="lightcase-icon-next" style="display: none;"><span>Next</span></a><a href="#" class="lightcase-icon-play" style="display: none;"><span>Play</span></a><a href="#" class="lightcase-icon-pause" style="display: none;"><span>Pause</span></a></div> -->

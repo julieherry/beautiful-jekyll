@@ -2,6 +2,7 @@
 common-css:
   - "/assets/css/bootstrap-social.css"
   - "/assets/css/main.css"
+  - "/assets/lightcase/src/css/lightcase.css"
 common-ext-css:
   - href: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     sri: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
@@ -17,12 +18,15 @@ common-ext-js:
     sri: "sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
 common-js:
   - "/assets/js/main.js"
+  - "/assets/lightcase/src/js/lightcase.js"
+  - "/assets/js/lightcase-config.js"
 ---
 
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
   <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2020 -->
   {% include head.html %}
+  <!-- - href: "https://cdnjs.cloudflare.com/ajax/libs/jquery-touch-events/1.0.5/jquery.mobile-events.js" -->
 
   <body>
 

@@ -1,0 +1,3 @@
+[submodule "assets/lightcase"]
+	path = assets/lightcase
+	url = https://github.com/cbopp-art/lightcase

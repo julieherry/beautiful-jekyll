@@ -242,6 +242,11 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+  -
+    scope:
+      path:            "images/**/*"
+    values:
+      sitemap:         true
 
 
 # Exclude these files from production site

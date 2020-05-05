@@ -6,3 +6,4 @@ gemspec
 
 gem 'jekyll-gallery-generator', git: 'https://github.com/julieherry/jekyll-gallery-generator'
 gem 'jekyll-redirect-from'
+gem 'github-pages'

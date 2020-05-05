@@ -108,7 +108,8 @@ footer-link-col: "#404040"
 #gtm: ""
 
 gallery:
-  dir: images               # Path to the gallery
+  dir: images    # Path to the gallery
+  sitemap: true            
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
   title: ""           # Title for gallery index page
   title_prefix: ""  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name

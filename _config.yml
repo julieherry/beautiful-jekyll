@@ -258,8 +258,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gallery-generator
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
   

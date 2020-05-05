@@ -5,4 +5,5 @@ $('a[data-rel^=lightcase').lightcase({
     slideshowAutoStart: false,
     overlayOpacity: .8,
     showTitle: false,
+    maxHeight: 1000
 });

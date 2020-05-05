@@ -3,7 +3,7 @@ layout: page
 ---
 <style TYPE="text/css">
 .gallery-image-wrapper {
-  height: 300px;
+  height: 200px;
   width: 300px;
   display: inline-block;
   margin: 1em;
@@ -19,14 +19,13 @@ layout: page
 }
 </style>
 <hr>
-
+<div class="container">
     {% for image in page.images %}
-        <div class="gallery-image-wrapper">
-            <a name="{{ image.name }}"></a>
-            <a href="{{ image.src }}" data-rel="lightcase:myCollection:slideshow" >
-                <img class="gallery-image" src="thumbs/{{ image.name }}" alt="{{ image.title }} / {{ image.dimension }} "/>
-            </a>
-        </div>
+            <div class="gallery-image-wrapper col-md-3 col-sm-1">
+                <a name="{{ image.name }}"></a>
+                <a href="{{ image.src }}" data-rel="lightcase:myCollection:slideshow" >
+                    <img class="gallery-image" src="thumbs/{{ image.name }}" alt="{{ image.title }} / {{ image.dimension }} "/>
+                </a>
+            </div>
     {% endfor %}
 </div>
-<!-- <div id="lightcase-nav"><a href="#" class="lightcase-icon-prev" style="display: none;"><span>Prev</span></a><a href="#" class="lightcase-icon-next" style="display: none;"><span>Next</span></a><a href="#" class="lightcase-icon-play" style="display: none;"><span>Play</span></a><a href="#" class="lightcase-icon-pause" style="display: none;"><span>Pause</span></a></div> -->

@@ -10,6 +10,11 @@ html {
   font-size: 100%
 }
 
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;

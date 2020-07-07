@@ -1,3 +1,17 @@
+# Notes
+
+Resize Images:
+
+```sh
+mkdir _resized
+find . -maxdepth 1 -iname "*.jpg" | xargs -L1 -I{} convert -resize 1654x2339 "{}" _resized/"{}"
+```
+
+Run
+```sh
+RUBYOPT="-W0" bundle exec jekyll serve
+```
+
 # Beautiful Jekyll
 
 ![Beautiful Jekyll CI](https://github.com/daattali/beautiful-jekyll/workflows/Beautiful%20Jekyll%20CI/badge.svg)

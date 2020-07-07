@@ -7,6 +7,6 @@ subtitle: Chronique d'un confinement
                 
 Vous pouvez télecharger le PDF complet [ici]().
 
-![Crepe](/images/fenetres/thumbs/jean.dupont.1.jpg?style=centerme)
+![Par La Fenetre](/images/fenetres/thumbs/fenetre_0.jpg?style=centerme)
 
 

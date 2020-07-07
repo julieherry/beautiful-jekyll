@@ -9,5 +9,14 @@ permalink: /404.html
   <h1>(404 error)</h1>
   <br/>
 
-  <img src="{{ 'assets/img/julie.jpg' | relative_url }}" />
+  <img id="fenetre" src="{{ 'images/fenetres/' | relative_url }}" />
 </div>
+<script>
+  const getRandomInt = function (max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+  const id = getRandomInt(60);
+  const path = document.getElementById("fenetre").src;
+  document.getElementById("fenetre").src = `${path}/fenetre_${id}.jpg`;
+
+</script>

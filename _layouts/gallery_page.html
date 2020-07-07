@@ -6,7 +6,6 @@ layout: page
   height: 200px;
   width: 300px;
   display: inline-block;
-  margin: 1em;
   position: relative;
 }
 .gallery-image {
@@ -21,9 +20,9 @@ layout: page
 <hr>
 <div class="container">
     {% for image in page.images %}
-            <div class="gallery-image-wrapper col-md-3 col-sm-1">
+            <div class="gallery-image-wrapper col-lg-2 col-md-3 col-sm-1">
                 <a name="{{ image.name }}"></a>
-                <a href="{{ image.src }}" data-rel="lightcase:myCollection:slideshow" >
+                <a href="{{ image.src }}" data-rel="lightcase:myCollection:slideshow" class="align-gallery" >
                     <img class="gallery-image" src="thumbs/{{ image.name }}" alt="{{ image.title }} / {{ image.dimension }} "/>
                 </a>
             </div>

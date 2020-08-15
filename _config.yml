@@ -12,15 +12,15 @@ author: Julie Herry
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  A4: '/images/A4'
+  A4: '/images/a4'
   Dessins    :
-    - 758 Evergreen Terrace: "758-evergreen-terrace"
-    - Closer: "images/closer"
-    - Pool Party: "images/pool"
-    - Haies: "images/haies"
-    - Jardinières: "images/jardinieres"
-    - Au beau milieu d'un rêve: "au-beau-milieu-d-un-reve"
     - Par la fenêtre: "images/fenetres"
+    - Closer: "images/closer"
+    - Pool Party: "pool-party"
+    - Haies: "images/haies"
+    - 758 Evergreen Terrace: "758-evergreen-terrace"
+    - Au beau milieu d'un rêve: "au-beau-milieu-d-un-reve"
+    - Jardinières: "images/jardinieres"
   Peintures:
     - Voies Rapides: "voies-rapides"
     - Paysage: "images/paysage"
@@ -159,47 +159,48 @@ gallery:
           dimension: "50*65cm / 2017"
           title: "Chez Brad Pitt et Angelina Jolie"
     jardinieres:
+            # title: "Niederschaeffolsheim"
       name: "Jardinieres"
       images: 
-        jardinieres.1.jpg:
+        jardinieres.01.jpg:
           dimension: "18*24cm"
-          title: "Bagneux"
-        jardinieres.2.jpg:
+          title: "Sainte Feyre 1, 2020"
+        jardinieres.02.jpg:
           dimension: "18*24cm"
-          title: "Cachan 2"
-        jardinieres.3.jpg:
+          title: "Sainte Feyre 2, 2020"
+        jardinieres.03.jpg:
           dimension: "18*24cm"
-          title: "Face à la gare Montparnasse"
-        jardinieres.4.jpg:
+          title: "Porte de Vanves, 2020"
+        jardinieres.04.jpg:
           dimension: "18*24cm"
-          title: "Clamart"
-        jardinieres.5.jpg:
+          title: "Face à la gare de Guéret, 2020"
+        jardinieres.05.jpg:
           dimension: "18*24cm"
-          title: "Cergy 1"
-        jardinieres.6.jpg:
+          title: "Pantin, 2020"
+        jardinieres.06.jpg:
           dimension: "18*24cm"
-          title: "Niederschaeffolsheim"
-        jardinieres.7.jpg:
+          title: "Bagneux, 2020"
+        jardinieres.07.jpg:
           dimension: "18*24cm"
-          title: "Cachan 1"
-        jardinieres.8.jpg:
+          title: "Cachan 2, 2020"
+        jardinieres.08.jpg:
           dimension: "18*24cm"
-          title: "Cergy 2"
-        jardinieres.9.jpg:
+          title: "Face à la gare Montparnasse, 2020"
+        jardinieres.09.jpg:
           dimension: "18*24cm"
-          title: "Cergy 3"
+          title: "Clamart, 2019"
         jardinieres.10.jpg:
             dimension: "18*24cm"
-            title: "Cergy 4"
+            title: "Cergy 1, 2015"
         jardinieres.11.jpg:
             dimension: "18*24cm"
-            title: "Porte de Vanves"
+            title: "Cergy 2, 2015"
         jardinieres.12.jpg:
             dimension: "18*24cm"
-            title: "Face à la gare de Guéret"
+            title: "Cergy 3, 2015"
         jardinieres.13.jpg:
             dimension: "18*24cm"
-            title: "Pantin"
+            title: "Cergy 4, 2015"
     haies:
       name: "Haies"
       images:
@@ -244,241 +245,238 @@ gallery:
       images: 
         fenetre_0.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_1.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_2.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_3.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_4.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_5.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_6.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_7.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_8.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_9.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_10.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_11.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_12.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_13.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_14.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_15.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_16.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_17.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_18.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_19.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_20.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_21.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_22.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_23.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_24.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_25.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_26.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_27.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_28.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_29.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_30.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_31.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_32.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_33.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_34.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_35.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_36.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_37.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_38.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_39.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_40.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_41.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_42.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_43.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_44.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_45.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_46.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_47.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_48.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_49.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_50.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_51.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_52.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_53.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_54.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_55.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_56.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_57.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_58.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_59.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_60.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_61.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_62.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_63.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_64.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_65.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_66.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_67.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_68.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_69.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_70.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_71.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_72.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_73.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_74.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_75.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_76.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
         fenetre_77.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
-        fenetre_78.jpg:
-          dimension: "A4"
-          title: "Par la fenêtre de @jean.dupont"
+          title: "Par la fenêtre de..."
     voies:
       name: "Voies Rapides"
       images:
@@ -594,6 +592,309 @@ gallery:
           dimension: "A4"
           title: "A4"
         a4.27.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.28.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.29.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.30.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.31.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.32.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.33.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.34.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.35.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.36.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.37.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.38.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.39.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.40.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.41.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.42.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.43.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.44.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.45.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.46.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.47.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.48.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.49.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.50.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.51.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.52.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.53.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.54.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.55.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.56.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.57.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.58.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.59.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.60.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.61.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.62.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.63.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.64.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.65.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.66.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.67.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.68.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.69.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.70.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.71.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.72.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.73.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.74.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.75.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.76.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.77.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.78.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.79.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.80.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.81.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.82.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.83.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.84.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.85.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.86.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.87.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.88.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.89.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.90.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.91.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.92.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.93.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.94.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.95.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.96.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.97.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.98.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.99.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.100.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.101.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.102.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.103.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.104.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.105.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.106.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.107.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.108.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.109.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.110.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.111.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.112.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.113.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.114.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.115.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.116.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.117.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.118.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.119.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.120.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.121.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.122.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.123.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.124.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.125.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.126.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.127.jpg:
+          dimension: "A4"
+          title: "A4"
+        a4.128.jpg:
           dimension: "A4"
           title: "A4"
 

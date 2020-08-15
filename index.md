@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Par la fenêtre
-subtitle: Chronique d'un confinement
+subtitle: 
 ---
 
-                
-Vous pouvez télecharger le PDF complet [ici]().
 
-![Par La Fenetre](/images/fenetres/thumbs/fenetre_0.jpg?style=centerme)
+![Par La Fenetre](/images/fenetres/thumbs/fenetre_27.jpg?style=centerme)
 
 

@@ -4,10 +4,10 @@ title: Voies Rapides
 subtitle:
 ---
 
-
+<!-- 
 ![Voies Rapides 1](/assets/img/voies/voies.rapides.1.jpg?style=centerme)
 
-
+ -->
 
 
 ![Voies Rapides 2](/assets/img/voies/voies.rapides.2.jpg?style=centerme)

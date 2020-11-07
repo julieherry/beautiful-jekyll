@@ -12,8 +12,9 @@ author: Julie Herry
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  New: "polymorphe"
   A4: '/images/a4'
-  Dessins    :
+  Drawings    :
     - Par la fenêtre: "images/fenetres"
     - Closer: "images/closer"
     - Pool Party: "pool-party"
@@ -21,13 +22,15 @@ navbar-links:
     - 758 Evergreen Terrace: "758-evergreen-terrace"
     - Au beau milieu d'un rêve: "au-beau-milieu-d-un-reve"
     - Jardinières: "images/jardinieres"
-  Peintures:
+  Paintings:
     - Voies Rapides: "voies-rapides"
-    - Paysage: "images/paysage"
-    - Road Pictures: "images/road"
+    - Paysage: "paysage"
+    - Road Pictures: "road"
+  Commisssions:
+    - Revue Polymorphe: "polymorphe"
     - The Big Nowhere Pictures: "the-big-nowhere"
-  Vues: "vues"
-  A propos de moi: "apropos"
+  Views: "views"
+  About: "about"
 
 # --- Logo --- #
 
@@ -132,31 +135,31 @@ gallery:
       name: "Closer"
       images:
         chez-john-doe.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2017"
           title: "Chez John Doe"
         chez-kristen-stewart.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2017"
           title: "Chez Kristen Stewart"
         chez-justin-bieber-1.jpg:
-          dimension: "50*65cm / 2016"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2016"
           title: "Chez Justin Bieber"
         chez-justin-bieber-2.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2015"
           title: "Chez Justin Bieber"
         chez-britney-spears.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2017"
           title: "Chez Britney Spears"
         chez-johnny-depp-et-vanessa-paradis.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2018"
           title: "Chez Johnny Depp et Vannessa Paradis"
         chez-leonardo-dicaprio.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2018"
           title: "Chez Leonardo Dicaprio"
         chez-paris-hilton.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2017"
           title: "Chez Paris Hilton"
         chez-brad-pitt-et-angelina-jolie.jpg:
-          dimension: "50*65cm / 2017"
+          dimension: "techniques mixtes sur papier, 50x65cm, 2018"
           title: "Chez Brad Pitt et Angelina Jolie"
     jardinieres:
             # title: "Niederschaeffolsheim"
@@ -186,9 +189,9 @@ gallery:
         jardinieres.08.jpg:
           dimension: "18*24cm"
           title: "Face à la gare Montparnasse, 2020"
-        jardinieres.09.jpg:
+        jardinieres.9.jpg:
           dimension: "18*24cm"
-          title: "Clamart, 2019"
+          title: "Paris, 2020"
         jardinieres.10.jpg:
             dimension: "18*24cm"
             title: "Cergy 1, 2015"
@@ -201,282 +204,295 @@ gallery:
         jardinieres.13.jpg:
             dimension: "18*24cm"
             title: "Cergy 4, 2015"
+        jardinieres.14.jpg:
+            dimension: "18*24cm"
+            title: "Clamart 2, 2020"
+        jardinieres.15.jpg:
+            dimension: "18*24cm"
+            title: "Clamart 3, 2020"
+        jardinieres.16.jpg:
+            dimension: "18*24cm"
+            title: "Villebon Sur Yvette 1, 2020"
+        jardinieres.17.jpg:
+            dimension: "18*24cm"
+            title: "Villebon Sur Yvette 2, 2020"
+
     haies:
       name: "Haies"
       images:
         haie1.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 1"
         haie2.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 2"
         haie3.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 3"
         haie4.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 4"
         haie5.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 5"
         haie6.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 6"
         haie7.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 7"
         haie8.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 8"
         haie9.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 9"
         haies10.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 10"
         haies11.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 11"
         haies12.jpg:
-          dimension: "18*24cm"
+          dimension: "techniques mixtes sur papier, 20x14cm, 2014"
           title: "Haies 12"
     fenetres:
-      name: "Fenetres"
+      name: "Par la fenêtre"
       images: 
         fenetre_0.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par ma fenêtre 1, feutre sur papier, 21x29,7cm"
         fenetre_1.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par ma fenêtre 2, feutre sur papier, 21x29,7cm"
         fenetre_2.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par ma fenêtre 3, feutre sur papier, 21x29,7cm"
         fenetre_3.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Safouane, feutre sur papier, 21x29,7cm"
         fenetre_4.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Sarah-Louise, feutre sur papier, 21x29,7cm"
         fenetre_5.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Simon, feutre sur papier, 21x29,7cm"
         fenetre_6.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de M'Hand et Charlotte, feutre sur papier, 21x29,7cm"
         fenetre_7.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Antoine C., feutre sur papier, 21x29,7cm"
         fenetre_8.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Bill, feutre sur papier, 21x29,7cm"
         fenetre_9.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Pierre, feutre sur papier, 21x29,7cm"
         fenetre_10.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Delphes, feutre sur papier, 21x29,7cm"
         fenetre_11.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Marie, feutre sur papier, 21x29,7cm"
         fenetre_12.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Jerry, feutre sur papier, 21x29,7cm"
         fenetre_13.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Laure-Anne et Arnaud, feutre sur papier, 21x29,7cm"
         fenetre_14.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Jade, feutre sur papier, 21x29,7cm"
         fenetre_15.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Alicia, feutre sur papier, 21x29,7cm"
         fenetre_16.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille H., feutre sur papier, 21x29,7cm"
         fenetre_17.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Roberto, feutre sur papier, 21x29,7cm"
         fenetre_18.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Yosra, feutre sur papier, 21x29,7cm"
         fenetre_19.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Ines, feutre sur papier, 21x29,7cm"
         fenetre_20.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Jean-Daniel, feutre sur papier, 21x29,7cm"
         fenetre_21.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Etienne, feutre sur papier, 21x29,7cm"
         fenetre_22.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Christian et Laurence, feutre sur papier, 21x29,7cm"
         fenetre_23.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Pauline L., feutre sur papier, 21x29,7cm"
         fenetre_24.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Etienne A., feutre sur papier, 21x29,7cm"
         fenetre_25.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Karoline, feutre sur papier, 21x29,7cm"
         fenetre_26.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Clotilde, feutre sur papier, 21x29,7cm"
         fenetre_27.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Aurelien, feutre sur papier, 21x29,7cm"
         fenetre_28.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Lea et Romain, feutre sur papier, 21x29,7cm"
         fenetre_29.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Marion D., feutre sur papier, 21x29,7cm"
         fenetre_30.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Caroline, feutre sur papier, 21x29,7cm"
         fenetre_31.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Pauline B., feutre sur papier, 21x29,7cm"
         fenetre_32.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Eleonore, feutre sur papier, 21x29,7cm"
         fenetre_33.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Melchior, feutre sur papier, 21x29,7cm"
         fenetre_34.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Anouk, feutre sur papier, 21x29,7cm"
         fenetre_35.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Maxime et Olivier, feutre sur papier, 21x29,7cm"
         fenetre_36.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par ma fenêtre 4, feutre sur papier, 21x29,7cm"
         fenetre_37.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Kevin, feutre sur papier, 21x29,7cm"
         fenetre_38.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Julien, feutre sur papier, 21x29,7cm"
         fenetre_39.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Pierre-Antoine, feutre sur papier, 21x29,7cm"
         fenetre_40.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Alexandre L., feutre sur papier, 21x29,7cm"
         fenetre_41.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Yannick, feutre sur papier, 21x29,7cm"
         fenetre_42.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Cecilia, feutre sur papier, 21x29,7cm"
         fenetre_43.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Maud, feutre sur papier, 21x29,7cm"
         fenetre_44.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Gael, feutre sur papier, 21x29,7cm"
         fenetre_45.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Simon B., feutre sur papier, 21x29,7cm"
         fenetre_46.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Lena, feutre sur papier, 21x29,7cm"
         fenetre_47.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Terah, feutre sur papier, 21x29,7cm"
         fenetre_48.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Carole, feutre sur papier, 21x29,7cm"
         fenetre_49.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Océane, feutre sur papier, 21x29,7cm"
         fenetre_50.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Jessica, feutre sur papier, 21x29,7cm"
         fenetre_51.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Fanny, feutre sur papier, 21x29,7cm"
         fenetre_52.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille M., feutre sur papier, 21x29,7cm"
         fenetre_53.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Alexandra, feutre sur papier, 21x29,7cm"
         fenetre_54.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Lina, feutre sur papier, 21x29,7cm"
         fenetre_55.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Sofiane, feutre sur papier, 21x29,7cm"
         fenetre_56.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Mathyld et Jef, feutre sur papier, 21x29,7cm"
         fenetre_57.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Antoine S., feutre sur papier, 21x29,7cm"
         fenetre_58.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Fagtice, feutre sur papier, 21x29,7cm"
         fenetre_59.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Felix, feutre sur papier, 21x29,7cm"
         fenetre_60.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Anna, feutre sur papier, 21x29,7cm"
         fenetre_61.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Celeste, feutre sur papier, 21x29,7cm"
         fenetre_62.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Antoine V., feutre sur papier, 21x29,7cm"
         fenetre_63.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Claire L., feutre sur papier, 21x29,7cm"
         fenetre_64.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille R., feutre sur papier, 21x29,7cm"
         fenetre_65.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Claire D., feutre sur papier, 21x29,7cm"
         fenetre_66.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre d'Anthony, feutre sur papier, 21x29,7cm"
         fenetre_67.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de James, feutre sur papier, 21x29,7cm"
         fenetre_68.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Marion B., feutre sur papier, 21x29,7cm"
         fenetre_69.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Louis, feutre sur papier, 21x29,7cm"
         fenetre_70.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Mathilde, feutre sur papier, 21x29,7cm"
         fenetre_71.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille M., feutre sur papier, 21x29,7cm"
         fenetre_72.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Julie, feutre sur papier, 21x29,7cm"
         fenetre_73.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Caroline C., feutre sur papier, 21x29,7cm"
         fenetre_74.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Melody, feutre sur papier, 21x29,7cm"
         fenetre_75.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Sacha, feutre sur papier, 21x29,7cm"
         fenetre_76.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille D., feutre sur papier, 21x29,7cm"
         fenetre_77.jpg:
           dimension: "A4"
-          title: "Par la fenêtre de..."
+          title: "Par la fenêtre de Camille A., feutre sur papier, 21x29,7cm"
     voies:
       name: "Voies Rapides"
       images:
@@ -513,391 +529,408 @@ gallery:
     a4:
       name: "A4"
       images:
-        a4.1.jpg:
-          dimension: "A4"
-          title: "A4"
-        a4.2.jpg:
-          dimension: "A4"
-          title: "A4"
-        a4.3.jpg:
-          dimension: "A4"
-          title: "A4"
-        a4.4.jpg:
-          dimension: "A4"
-          title: "A4"
         a4.5.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.6.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.7.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.8.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.9.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.10.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.11.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.12.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.13.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.14.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.15.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.16.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.17.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.18.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.19.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.20.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.21.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.22.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.23.jpg:
           dimension: "A4"
-          title: "A4"     
+          title: "A4, feutre sur papier, 21x29,7cm"     
         a4.24.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.25.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.26.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.27.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.28.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.29.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.30.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.31.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.32.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.33.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.34.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.35.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.36.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.37.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.38.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.39.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.40.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.41.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.42.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.43.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.44.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.45.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.46.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.47.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.48.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.49.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.50.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.51.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.52.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.53.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.54.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.55.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.56.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.57.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.58.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.59.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.60.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.61.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.62.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.63.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.64.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.65.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.66.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.67.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.68.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.69.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.70.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.71.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.72.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.73.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.74.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.75.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.76.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.77.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.78.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.79.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.80.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.81.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.82.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.83.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.84.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.85.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.86.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.87.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.88.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.89.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.90.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.91.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.92.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.93.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.94.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.95.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.96.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.97.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.98.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.99.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.100.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.101.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.102.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.103.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.104.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.105.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.106.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.107.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.108.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.109.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.110.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.111.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.112.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.113.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.114.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.115.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.116.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.117.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.118.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.119.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.120.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.121.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.122.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.123.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.124.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.125.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.126.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.127.jpg:
           dimension: "A4"
-          title: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
         a4.128.jpg:
           dimension: "A4"
-          title: "A4"
-
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.129.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.130.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.131.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.132.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.133.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.134.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.135.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.136.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.137.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
+        a4.138.jpg:
+          dimension: "A4"
+          title: "A4, feutre sur papier, 21x29,7cm"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.

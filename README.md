@@ -4,7 +4,7 @@ Resize Images:
 
 ```sh
 mkdir _resized
-find . -maxdepth 1 -iname "*.jpg" | xargs -L1 -I{} convert -resize 1200x800 "{}" _resized/"{}"
+find . -maxdepth 1 -iname "*copie.png" | xargs -L1 -I{} convert -resize 1200x800 "{}" _resized/"{}"
 ```
 
 Run

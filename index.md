@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Par la fenêtre
+title: 
 subtitle: 
 ---
 
-
-![Par La Fenetre](/images/fenetres/thumbs/fenetre_27.jpg?style=centerme)
-
-
+![Par La Fenetre](/assets/img/dessin-site.jpg?style=centerme)

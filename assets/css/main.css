@@ -12,6 +12,7 @@ html {
 
 img[src$="centerme"] {
   display:block;
+  max-width: 80%;
   margin: 0 auto;
 }
 
@@ -20,6 +21,7 @@ a[href$="centerme"] {
   text-align: center;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
+  max-width: 80%;
   line-height: 1.1;
   margin: 0 auto;
   font-size: 1.125rem;
@@ -42,7 +44,7 @@ body {
 }
 
 p {
-  line-height: 1.5;
+  line-height: 1.1;
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -95,10 +97,58 @@ hr.small {
 .main-content {
   padding-top: 5rem;
 }
+
+
 @media (min-width: 768px) {
   .main-content {
     padding-top: 8.125rem;
   }
+}
+
+.gallery-image-wrapper {
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+  height: 20em;
+}
+
+@media (max-width: 768px) {
+  .gallery-image-wrapper {
+    width: 230px !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .gallery-image-wrapper {
+    width: 200px !important;
+  }
+}
+
+
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+#container {
+  width: 95%;
+  margin: auto;
+}
+
+em {
+  margin-left: 35px !important; 
+  line-height: 1.2;
+  font-style: normal !important;
+}
+
+em::before{
+  content: "\a";
+  white-space: pre;
 }
 
 .hideme {
@@ -557,6 +607,8 @@ footer .footer-custom-content {
     margin-top: 0.625rem;
   }
 }
+
+
 
 @media (max-width: 500px) {
   .post-image, .post-image img {
